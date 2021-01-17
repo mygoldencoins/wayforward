@@ -9,7 +9,7 @@ Due to the following below:
   - Baseless Lawsuits due to unwillingless to study and understand the dynamics of cryptocurrency
   - Threats to developers and trading overseers from anonymous people including death threats.
   - Spamming.
-  - Organised attemps to sabotage the platform.
+  - Organised attempts to sabotage the platform.
   - Legal advice and pressure from authorities.
   - Ignorance and Purposely breaching the terms and conditions of service.
   - Malicious Accusations and Extortion.

@@ -1,8 +1,7 @@
 ## Final Consensus Of the CryptoMarket MYGOLDENCOINS.COM
 
-You can use the [editor on GitHub](https://github.com/mygoldencoins/wayforward/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It is with Utmost Humility that mygoldencoins.com has come to an ultimate consensus to completely shutdown its technological services in cryptocurrency.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

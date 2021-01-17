@@ -6,7 +6,7 @@ It is with Utmost Humility that mygoldencoins.com 'us, our, we' has come to an u
 ## Why Is mygoldencoins.com and thecityofcoins.com shutting down?!
 
 Due to the following below:
-  - Unlawfuly lawsuits.
+  - Baseless Lawsuitsdue to unwillingless to study and understand the dynamics of cryptocurrency
   - Threats to developers and trading overseers from anonymous people including death threats.
   - Spamming.
   - Organised attemps to sabotage the platform.

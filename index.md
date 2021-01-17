@@ -13,7 +13,7 @@ Due to the following below:
   - Legal advice and pressure from authorities.
   - Ignorance and Purposely breaching the terms and conditions of service.
   - Malicious Accusations and Extortion.
-  - Lack of regulation authority and legal pathways in an event of a dispute.
+  - Lack of a regulation authority and legal pathways in an event of a dispute.
   
 As stated in the *terms and conditions of service* as they have appeared since the opening of either sites, we are discontinuing all services related to the trading, mining, support, innovation and technology of cryptocurrency. As a result the following technologies will be indefinitely shutdown.
   - online cryptowallet.
@@ -26,11 +26,11 @@ As stated in the *terms and conditions of service* as they have appeared since t
   - databases
   
 ## What happens to the crypto-coins?!
-Our copy of the blockchain will be found as it appeared on the 14th of January 2021 **link at the end of this decument**. We will also publish the protocol of the cryptocurrency, how it works, and pseudo-code. Users will be able to retrieve their private and public keys for their respective wallets by filling in a form that will send the credentials to the email address that was registered or was placed into the blockchain as meta-data. By filling the form that will be made availlable **link at the end of this document** users will be able to transfer their crypto-coins to other online (hot) or offline (cold) crypto-wallets. However other crypto-wallets may or may not accept the coins and it is the duty of the user to find a suitable wallet, mygoldencoins.com its previous affiliates, developers or trading overseers will not provide information or assistance on what cryptocurrency wallet to use as some malicious users may try to implecate them.
+Our copy of the blockchain will be on this repository as it appeared on the 14th of January 2021 . We will also publish the protocol of the cryptocurrency, how it works, and pseudo-code. Users will be able to retrieve their private and public keys for their respective wallets by filling in a form that will send the credentials to the email address that was registered or was placed into the blockchain as meta-data. By filling the form that will be made availlable by the 20th of January 2020, users will be able to transfer their crypto-coins to other online (hot) or offline (cold) crypto-wallets. However other crypto-wallets may or may not accept the coins and it is the duty of the user to find a suitable wallet, mygoldencoins.com its previous affiliates, developers or trading overseers will not provide information or assistance on what cryptocurrency wallet to use as some malicious users may try to implecate them.
 
 
 
   
   
 
-[Link](url) and ![Image](src)
+[Link](url)

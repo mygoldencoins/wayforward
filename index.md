@@ -1,36 +1,37 @@
 ## Final Consensus Of the CryptoMarket MYGOLDENCOINS.COM
 
-It is with Utmost Humility that mygoldencoins.com has come to an ultimate consensus to completely shutdown its technological services in cryptocurrency.
+It is with Utmost Humility that mygoldencoins.com 'us, our, we' has come to an ultimate consensus to completely shutdown its technological services in cryptocurrency.
 
 
-### Markdown
+## Why Is mygoldencoins.com and thecityofcoins.com shutting down?!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Due to the following below:
+  - Unlawfuly lawsuits.
+  - Threats to developers and trading overseers from anonymous people including death threats.
+  - Spamming.
+  - Organised attemps to sabotage the platform.
+  - Legal advice and pressure from authorities.
+  - Ignorance and Purposely ignoring and breaching the terms and conditions of service.
+  - Unwillingness to study and understand the dynamics of cryptocurrency.
+  - Malicious Accusations and Extortion.
+  - Lack of regulation authority and legal pathways in an event of a dispute.
+  
+As stated in the *terms and conditions of service* as they have appeared since the opening of either sites, we are discontinuing all services related to the trading, mining, support, innovation and technology of cryptocurrency. As a result the following technologies will be indefinitely shutdown.
+  - online cryptowallet.
+  - ai enabled auto-trader
+  - cloud-based soft ASIC instances
+  - crypto escrow system
+  - blockchain monitor and api
+  - webserver
+  - website and market
+  - databases
+  
+## What happens to the crypto-coins?!
+Our copy of the blockchain will be found as it appeared on the 14th of January 2021 **link at the end of this decument**. We will also publish the protocol of the cryptocurrency, how it works, and pseudo-code. Users will be able to retrieve their private and public keys for their respective wallets by filling in a form that will send the credentials to the email address that was registered or was placed into the blockchain as meta-data. By filling the form that will be made availlable **link at the end of this decument** users will be able to transfer their crypto-coins to other online (hot) or offline (cold) crypto-wallets. However other crypto-wallets may or may not accept the coins and it is the duty of the user to find a suitable wallet, mygoldencoins.com its previous affiliates, developers or trading overseers will not provide information or assistance on what cryptocurrency wallet to use as some malicious users may try to implecate them.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+  
+  
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mygoldencoins/wayforward/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

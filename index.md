@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Final Consensus Of the CryptoMarket MYGOLDENCOINS.COM
 
 You can use the [editor on GitHub](https://github.com/mygoldencoins/wayforward/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
